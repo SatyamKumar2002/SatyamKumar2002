@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Web Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/satyam-kumar-322169217/" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-kumar-322169217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/SatyamKumar2002" target="_blank">
@@ -78,12 +78,20 @@ Real-time weather forecasts with geolocation APIs, optimized for fast response.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Satyam's GitHub Stats" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Satyam's Top Languages" width="48%" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+
+</div>
+
 
 ---
 
