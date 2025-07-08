@@ -2,13 +2,13 @@
 <h3 align="center">Aspiring Full-Stack Web Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/satyam-kumar-322169217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/SatyamKumar2002" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-profile" target="_blank">
+  <a href="https://leetcode.com/SATYAMKUMAR08/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -32,8 +32,8 @@
 **Frontend**: React.js, Tailwind CSS, Bootstrap  
 **Backend**: Node.js, Express.js  
 **Databases**: MongoDB, MySQL  
-**Tools**: Git, GitHub, VS Code, MongoDB Compass, MS-Excel  
-**Soft Skills**: Communication, Problem Solving, Team Work, Adaptability
+**Tools**: Git, GitHub, VS Code, MongoDB Compass, MS Excel  
+**Soft Skills**: Communication, Problem-Solving, Team Work, Adaptability
 
 ---
 
@@ -46,7 +46,7 @@ _Jun 2024 – Aug 2024_
 
 **Frontend Developer Intern – Oasis Infobyte**  
 _Sept 2023 – Oct 2023_  
-• Created a Tic-Tac-Toe game, To-Do list, Calculator  
+• Created a Tic-Tac-Toe game, a To-Do list, Calculator  
 • Focused on cross-browser compatibility and UI optimization
 
 ---
@@ -74,7 +74,7 @@ Real-time weather forecasts with geolocation APIs, optimized for fast response.
 
 - 🧠 Solved **250+ DSA problems** on LeetCode, GeeksforGeeks  
 - 🌟 CodeChef Max Rating: **1250**, GeeksforGeeks: **1200**  
-- 💡 Strong grasp on recursion, trees, dynamic programming
+- 💡 Strong grasp on recursion, trees, and dynamic programming
 
 ---
 
@@ -91,7 +91,7 @@ Real-time weather forecasts with geolocation APIs, optimized for fast response.
 
 <p align="center">
   <a href="mailto:satyamks344@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/your-leetcode-profile"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode"></a>
+  <a href="https://www.linkedin.com/in/satyam-kumar-322169217/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/SatyamKumar2002"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/SATYAMKUMAR08/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode"></a>
 </p>
